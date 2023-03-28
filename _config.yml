@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Zero Trust Network Blogs # the main title
+title: Zero Trust Network Blog # the main title
 
 tagline: # it will display as the sub-title
 
